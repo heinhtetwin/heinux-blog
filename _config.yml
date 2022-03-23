@@ -14,6 +14,7 @@ author: HHW
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "/"
   About Me: "aboutme"
   Resources:
     - Learn System Administration: "https://www.tecmint.com/sed-command-to-create-edit-and-manipulate-files-in-linux/"
