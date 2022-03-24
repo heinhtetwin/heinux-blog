@@ -2,7 +2,6 @@
 layout: post
 title: How does Linux handle software packages?
 share-img: /assets/img/SOftware packages တွေအကြောင်းတစ်စေ့တစ်စောင်း.png
-cover-img: /assets/img/SOftware packages တွေအကြောင်းတစ်စေ့တစ်စောင်း.png
 thumbnail-img: /assets/img/SOftware packages တွေအကြောင်းတစ်စေ့တစ်စောင်း.png
 tags: [Linux,System Administration]
 ---
