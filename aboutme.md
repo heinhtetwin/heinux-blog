@@ -9,6 +9,7 @@ My name is Hein Htet Win and I currently lives in Myanmar. I am currently workin
 - [Certified Kubernetes Administrator by Linux Foundation](https://www.credly.com/badges/975edf51-0c27-4d85-a484-fb4e0a31c9df/public_url)
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/25bb026f-c522-4740-975b-f46313526899/public_url)
 - [Linux Foundation Certified Systems Administrator](https://www.credly.com/badges/1835cbba-4189-4239-a1f1-8adcd202447c/public_url)
+- [Red Hat Certified System Administrator](https://www.credly.com/badges/ef3974d3-f287-49b3-a799-360794e72f70/public_url)
 
 So, by any chances, if you are looking forward to take these exams or any other IT related certifications, you can come to me and discuss about how to **self-learn** and where to look for resources for a quick and efficient learning. 
 
