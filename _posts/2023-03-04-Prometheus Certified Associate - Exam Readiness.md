@@ -5,8 +5,6 @@ share-img: /assets/img/PCA Preparation.png
 thumbnail-img: /assets/img/PCA Preparation.png
 tags: [Linux,Monitoring]
 ---
-
-# Prometheus Certified Associate - Exam Readiness
 ## Objective
 
 The main objective of this post is to give information about how to study and pass PCA exam hosted by Linux Foundation. By reading this blog, you will have a quick insight about how to start studying for Prometheus in order to manage and analyze your application’s observability data and visualize that data into graphs. 
