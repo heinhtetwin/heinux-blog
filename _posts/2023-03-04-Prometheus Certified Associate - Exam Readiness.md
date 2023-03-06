@@ -26,11 +26,11 @@ As per Linux Foundation, the **curriculum** for Prometheus Certification is desc
 ## Learning Objectives
 
 - I think the most important section in learning Prometheus is no other than **PromQL**.
-- You can test around PromQL metrics in this [link]([https://demo.promlens.com](https://demo.promlens.com/)).
-- You can learn about basic Prometheus system architecture [here]([https://prometheus.io/docs/introduction/overview/#architecture](https://prometheus.io/docs/introduction/overview/#architecture)).
-- You can explore about Prometheus basic functions [here]([https://prometheus.io/docs/prometheus/latest/querying/functions](https://prometheus.io/docs/prometheus/latest/querying/functions/)).
-- Learning AlertManager is also an important factor in learning about Prometheus. You can get an overview of AlertManger functionalities [here]([https://prometheus.io/docs/alerting/latest/alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)).
-- You can visualize your alertmanager routes in this [link]([https://prometheus.io/webtools/alerting/routing-tree-editor](https://prometheus.io/webtools/alerting/routing-tree-editor/)).
+- You can test around PromQL metrics in this [link](https://demo.promlens.com/).
+- You can learn about basic Prometheus system architecture [here](https://prometheus.io/docs/introduction/overview/#architecture).
+- You can explore about Prometheus basic functions [here](https://prometheus.io/docs/prometheus/latest/querying/functions/).
+- Learning AlertManager is also an important factor in learning about Prometheus. You can get an overview of AlertManger functionalities [here](https://prometheus.io/docs/alerting/latest/alertmanager/).
+- You can visualize your alertmanager routes in this [link](https://prometheus.io/webtools/alerting/routing-tree-editor/).
 - Basic understanding of exporters such as node_exporter and blackbox_exporter is needed for PCA exam.
 - In Prometheus, you can use two rules types for different purposes:
     - Record rules allow you to precompute frequently needed or computationally expensive expressions and save their results as a new set of time series.
